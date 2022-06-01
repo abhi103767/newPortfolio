@@ -159,7 +159,7 @@ const About = () => {
             </MyPhoto>
             <Paragraph>I'm 21 and I'm from Gwalior</Paragraph>
             <Paragraph width={540} mb={20}>
-            I love problem solving. and I am dropped out from college(1st Year).
+        I  dropped out from college(2nd Year).
             </Paragraph>
             <Paragraph mb={20}>
               I want to develop as a fullstack developer, meet other developers and implement web
