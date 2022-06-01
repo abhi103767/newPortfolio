@@ -9,14 +9,14 @@ const works = [
   {
     name: 'Chess',
     description:
-      'In this app you can play chess it is tested for every possibility chances in chess',
+      'In this app you can play chess, it is tested for every possibility chances in chess',
     stack: ['React', 'Javascript', 'HTML', 'CSS'],
     image: chess,
     www: 'https://chessbyavinash.netlify.app/',
     github: 'https://github.com/abhi103767/Chess',
   },
   {
-    name: 'Groww',
+    name: 'Groww Clone',
     description: 'In this app you can buy and sell stocks with facility of filtering data',
     stack: ['HTML','CSS','JAVASCRIPT','NODE JS','CHART JS'],
     image: grow,
@@ -24,13 +24,13 @@ const works = [
     github: 'https://github.com/taherahmed14/Groww_Front-end_Project.git',
   },
   {
-    name: 'Groww-FullStack',
+    name: 'Groww-FullStack Clone',
     description:
-      'It is full stack app of grow app',
+      'It is full stack app of grow app where you can buy and sell stocks.',
     stack: ['HTML', 'CSS', 'JAVASCRIPT', 'EJS', 'NODEJS', 'EXPRESS', 'MONGO DB' ],
     image: grow,
     www: 'https://groww-project.herokuapp.com/home',
-    github: 'https://github.com/nazariiko/volkivskiy-website',
+    github: 'https://github.com/taherahmed14/Groww_Front-end_Project',
   },
   {
     name: 'React ToDo',

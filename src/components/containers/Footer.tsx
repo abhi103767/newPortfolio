@@ -40,7 +40,6 @@ const Footer = () => {
         <Link to="hello" smooth={true} offset={-200} duration={500}>
           <img src={logo} alt="logo" />
         </Link>
-        <p>© 2021 Nazarii Kovalenko</p>
       </FooterContent>
     </StyledFooter>
   );

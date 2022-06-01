@@ -129,14 +129,15 @@ const StyledRigthContent = styled.div`
       position: absolute;
       top: 0;
       left: 0;
-      width: 285px;
-      height: 285px;
+      width: 270px;
+      height: 240px;
       background: url(${myPhoto});
-      background-size: 285px 285px;
+      background-size: 270px 240px;
       background-repeat: no-repeat;
+      border-radius: 10px;
      
       background-blend-mode: color-dodge;
-      border-radius: 10px;
+    
       z-index: 10;
 
       &:hover + .backgroundDashedLines {
@@ -150,10 +151,11 @@ const StyledRigthContent = styled.div`
       z-index: 0;
       top: 20px;
       left: 20px;
-      width: 285px;
-      height: 285px;
+      width: 270px;
+      height: 240px;
       border: 2px dashed ${(props) => props.theme.primary};
       border-radius: 10px;
+ 
       transition: all 0.2s ease-in-out;
     }
   }
@@ -169,7 +171,7 @@ const Hello = () => {
             <StyledHeading>Avinash.</StyledHeading>
             <StyledHeading mb={25}>I build things for the web.</StyledHeading>
             <Paragraph mb={15} width={510}>
-            I love how technology changing our lives and making our experiences better. I want to be a part of it and make my and others' experiences more better. {' '}
+           A Full Stack Developer who is passionate about creating product for making human life easier.{' '}
               {/* <Link to="works" smooth={true} offset={-150} duration={500}>
                 <span> examples of my work.</span>
               </Link> */}
