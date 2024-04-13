@@ -20,7 +20,7 @@ const works = [
     description: 'In this app you can buy and sell stocks with facility of filtering data',
     stack: ['HTML','CSS','JAVASCRIPT','NODE JS','CHART JS'],
     image: grow,
-    www: 'https://groww-project.herokuapp.com/home',
+    www: 'http://3.95.179.169:7500/home',
     github: 'https://github.com/taherahmed14/Groww_Front-end_Project.git',
   },
   {
@@ -29,7 +29,7 @@ const works = [
       'It is full stack app of grow app where you can buy and sell stocks.',
     stack: ['HTML', 'CSS', 'JAVASCRIPT', 'EJS', 'NODEJS', 'EXPRESS', 'MONGO DB' ],
     image: grow,
-    www: 'https://groww-project.herokuapp.com/home',
+    www: 'http://3.95.179.169:7500/home',
     github: 'https://github.com/taherahmed14/Groww_Front-end_Project',
   },
   {
