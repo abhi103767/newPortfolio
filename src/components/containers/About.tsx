@@ -157,12 +157,10 @@ const About = () => {
                 <div className="myPhoto"></div>
               </div>
             </MyPhoto>
-            <Paragraph>I'm 21 and I'm from Gwalior</Paragraph>
-            <Paragraph width={540} mb={20}>
-        I  dropped out from college(2nd Year).
-            </Paragraph>
+            
             <Paragraph mb={20}>
-            Backend developer with 2.5 years of experience
+            
+Fullstack developer with 2.5 years of experience
 in building and deploying scalable application.
 Proven ability to work independently and as part
 of a team. Strong problem-solving and debugging
