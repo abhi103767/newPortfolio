@@ -131,7 +131,7 @@ const StyledRigthContent = styled.div`
       left: 0;
       width: 270px;
       height: 240px;
-      background: url(${myPhoto});
+      background: url("https://media.licdn.com/dms/image/D4D03AQEx23onozzBYA/profile-displayphoto-shrink_200_200/0/1685429200159?e=1718841600&v=beta&t=2rtER55N3mJ6btcupQxueF7OahTEuGKHf9vaYiTEyr4");
       background-size: 270px 240px;
       background-repeat: no-repeat;
       border-radius: 10px;
