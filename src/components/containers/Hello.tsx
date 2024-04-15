@@ -171,7 +171,7 @@ const Hello = () => {
             <StyledHeading>Avinash.</StyledHeading>
             <StyledHeading mb={25}>I build things for the web.</StyledHeading>
             <Paragraph mb={15} width={510}>
-           A Full Stack Developer who is passionate about creating product for making human life easier.{' '}
+        With 2.5 years of experience, adept full-stack developer skilled in building and deploying scalable applications. Strong problem-solving and debugging abilities, comfortable working independently or as part of a team.{' '}
               {/* <Link to="works" smooth={true} offset={-150} duration={500}>
                 <span> examples of my work.</span>
               </Link> */}
