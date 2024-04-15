@@ -1,4 +1,15 @@
 const skills = {
+
+Backend: ['Node',
+  'Express',
+   'MySql',
+  'MongoDB',  
+  'Mongoose',
+  'Docker',
+  'Socket',
+  'Reddis',
+   'Git'  
+],
   Frontend: [
     'HTML/CSS',
     'JavaScript(ES6+)/TypeScript',
@@ -7,11 +18,7 @@ const skills = {
     'Data structures / Algorithms',
     'Material UI',
   ],
-  Backend: ['Node',
-  'Express',
-  'MongoDB',  
-  'Reddis',  
-],
+  
 };
 
 export default skills;
